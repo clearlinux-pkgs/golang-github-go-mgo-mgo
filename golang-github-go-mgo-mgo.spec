@@ -1,6 +1,6 @@
 Name     : golang-github-go-mgo-mgo 
 Version  : 2015.06.03
-Release  : 8
+Release  : 9
 URL      : https://github.com/go-mgo/mgo/archive/r2015.06.03.tar.gz
 Source0  : https://github.com/go-mgo/mgo/archive/r2015.06.03.tar.gz
 Summary  : No detailed summary available
